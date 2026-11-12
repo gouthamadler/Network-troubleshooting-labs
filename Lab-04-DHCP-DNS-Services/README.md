@@ -304,7 +304,7 @@ http://intranet.lab
 
 The internal webpage should load successfully after DNS resolves the hostname.
 
-![HTTP Web Browser Verification](screenshots/web-browser.png)
+![HTTP Web Browser Verification](Screenshots/web-browser.png)
 
 ## 12. Connectivity Testing
 
@@ -517,14 +517,14 @@ After completing the lab, the following skills should be demonstrated:
 
 | Component | Status |
 |---|---|
-| Network Topology | [Completed/Pending] |
-| DHCP Server Configuration | [Verified/Pending] |
-| DHCP Client Configuration | [Verified/Pending] |
-| DNS Server Configuration | [Verified/Pending] |
-| HTTP Server Configuration | [Verified/Pending] |
-| Connectivity Verification | [Verified/Pending] |
-| Troubleshooting Exercise | [Verified/Pending] |
-| GitHub Documentation | [Completed/Pending] |
+| Network Topology | Completed |
+| DHCP Server Configuration | Verified |
+| DHCP Client Configuration | Verified |
+| DNS Server Configuration | Verified |
+| HTTP Server Configuration | Verified |
+| Connectivity Verification | Verified |
+| Troubleshooting Exercise | Verified |
+| GitHub Documentation | Completed |
 
 
 ---
