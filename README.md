@@ -241,8 +241,8 @@ My learning combines Cisco networking fundamentals, hands-on Packet Tracer exerc
 I welcome opportunities to learn, collaborate, and connect with professionals in networking and IT infrastructure.
 
 - **LinkedIn:** www.linkedin.com/in/gouthamadler
-- **GitHub:** [Add your GitHub profile URL]
-- **Credly:** https://www.credly.com/users/goutham-l.2cc1b2d3
+- **GitHub:**   https://github.com/gouthamadler
+- **Credly:**   https://www.credly.com/users/goutham-l.2cc1b2d3
 
 ---
 
