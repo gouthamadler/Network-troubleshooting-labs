@@ -38,7 +38,7 @@ A simulated routing failure is also introduced to practice NOC troubleshooting p
 
 ## 4. Network Topology
 
-![Static Routing Network Topology](Screenshots/topology(2).png)
+![Static Routing Network Topology](Screenshots/topology.png)
 
 ### Network Diagram
 
