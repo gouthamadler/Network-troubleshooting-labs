@@ -198,7 +198,7 @@ ping 10.0.0.1
 
 Expected result: Successful communication between the router WAN interfaces.
 
-![WAN Connectivity](screenshots/wan-connectivity.png)
+![WAN Connectivity](Screenshots/wan-connectivity.png)
 
 ## 10. Static Route Configuration
 
@@ -255,7 +255,7 @@ Expected static route:
 S 192.168.20.0/24 [1/0] via 10.0.0.2
 ```
 
-![R1 Routing Table](screenshots/r1-routing-table.png)
+![R1 Routing Table](Screenshots/r1-routing-table.png)
 
 ### R2 Routing Table
 
@@ -270,7 +270,7 @@ Expected static route:
 S 192.168.10.0/24 [1/0] via 10.0.0.1
 ```
 
-![R2 Routing Table](screenshots/r2-routing-table.png)
+![R2 Routing Table](Screenshots/r2-routing-table.png)
 
 ## 12. End-to-End Connectivity Testing
 
@@ -302,7 +302,7 @@ ping 192.168.10.10
 | PC1 | PC2 | Success | Success |
 | PC2 | PC1 | Success | Success |
 
-![End-to-End Ping Verification](screenshots/end-to-end-ping.png)
+![End-to-End Ping Verification](Screenshots/end-to-end-ping.png)
 
 ## 13. Understanding Static Routing
 
@@ -391,7 +391,7 @@ ping 192.168.20.10
 
 Expected result: Successful communication after restoring the route.
 
-![Static Routing Troubleshooting](screenshots/troubleshooting.png)
+![Static Routing Troubleshooting](Screenshots/troubleshooting.png)
 
 ## 15. NOC Incident Report
 
